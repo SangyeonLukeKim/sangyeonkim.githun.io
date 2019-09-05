@@ -279,7 +279,9 @@ compress_html:
   ignore:
     envs: development
 
+# Defaults
 defaults:
+
   # _pages
   - scope:
       path: "/_pages/about.md"
@@ -287,9 +289,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-# Defaults
-defaults:
   # _posts
   - scope:
       path: ""
