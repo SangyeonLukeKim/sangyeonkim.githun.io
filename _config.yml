@@ -111,7 +111,7 @@ author:
   name             : "Sangyeon L. Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Human-Computer Interaction Researcher"
-  location         : "Soeul, South Korea"
+  location         : "Seoul, South Korea"
   email            : "sangyeonlukekim@gmail.com"
   links:
     - label: "Email"
@@ -127,7 +127,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/owlpispis"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github-square"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/SangyeonLukeKim"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
