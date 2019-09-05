@@ -108,26 +108,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sangyeon L. Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Human-Computer Interaction Researcher"
+  location         : "Soeul, South Korea"
+  email            : "sangyeonlukekim@gmail.com"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "sangyeonlukekim@gmail.com"
       # url: mailto:your.name@email.com
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "https://sangyeonlukekim.github.io"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/owlpispis"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "https://www.github.com/SangyeonLukeKim"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
