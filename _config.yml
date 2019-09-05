@@ -21,7 +21,7 @@ title                    : "Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sangyeon Kim"
-description              : "Blog"
+description              : "A Blog of Sangyeon Kim"
 url                      : "https://sangyeonlukekim.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : "" # the subpath of your site, e.g.
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
